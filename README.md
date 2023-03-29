@@ -24,6 +24,8 @@ My name is Michael or as go **m3rk1989** online. I'm a self taught Software Deve
 ![MichaelStreeter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3rk1989&show_icons=true&hide_border=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelstreeter" alt="michaelstreeter" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelstreeter&label=Profile%20views&color=0e75b6&style=flat" alt="michaelstreeter" /> </p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelstreeter&show_icons=true&locale=en&layout=compact" alt="michaelstreeter" /></p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelstreeter&show_icons=true&locale=en" alt="michaelstreeter" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelstreeter&" alt="michaelstreeter" /></p> -->
