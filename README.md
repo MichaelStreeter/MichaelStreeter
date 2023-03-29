@@ -16,7 +16,7 @@ My name is Michael or as go **m3rk1989** online. I'm a self taught Software Deve
 - ⚡ Fun fact: .
 <br></br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I Have Used:</h3>
 
 
 ## Stats
@@ -31,6 +31,9 @@ My name is Michael or as go **m3rk1989** online. I'm a self taught Software Deve
 <br/>
 <a href="https://twitter.com/m3rk1989">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://youtube.com/m3rk1989">
+<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://discord.gg">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
