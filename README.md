@@ -19,6 +19,7 @@ My name is Michael or as go **m3rk1989** online. I'm a self taught Software Deve
 ## Stats
 
 ![MichaelStreeter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3rk1989&show_icons=true&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelstreeter&show_icons=true&locale=en" alt="michaelstreeter" /></p>
 
 ## Socials
 
