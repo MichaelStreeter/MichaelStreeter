@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning: Web development, lower level Linux concepts, App development
 - 💬 Ask me about: Anything you need help with.
 - 📫 How to reach me: On Discord or any of my Social Media accounts!
-- 😄 Pronouns: He/Him/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life is what you make it.
 
 <br>
