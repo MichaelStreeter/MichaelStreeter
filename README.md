@@ -32,7 +32,7 @@ My name is Michael or as go **m3rk1989** online. I'm a self taught Software Deve
 <a href="https://twitter.com/m3rk1989">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://youtube.com/m3rk1989">
+<a href="https://www.youtube.com/channel/UCYlyT_VY1G2ZTmgsp-EgtpQ">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://discord.gg">
