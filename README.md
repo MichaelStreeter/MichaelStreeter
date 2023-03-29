@@ -26,9 +26,9 @@
 ## Stats
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/MichaelStreeter)  -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelstreeter&show_icons=true&locale=en&layout=compact" alt="michaelstreeter" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelstreeter&show_icons=true&locale=en" alt="michaelstreeter" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelstreeter" alt="michaelstreeter" /></a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelstreeter&show_icons=true&locale=en&layout=compact" alt="michaelstreeter" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelstreeter&show_icons=true&locale=en&layout=compact" alt="michaelstreeter" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelstreeter&" alt="michaelstreeter" /></p> -->
 
@@ -36,11 +36,11 @@
 
 <br/>
 <a href="https://twitter.com/m3rk1989">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<img align="left" alt="MichaelStreeter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.youtube.com/channel/UCYlyT_VY1G2ZTmgsp-EgtpQ">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<img align="left" alt="MichaelStreeter | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="https://discord.gg">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-<a href="https://www.instagram.com/">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<img align="left" alt="MichaelStreeter | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+<a href="https://www.instagram.com/m3rk1989">
+<img align="left" alt="MichaelStreeter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
