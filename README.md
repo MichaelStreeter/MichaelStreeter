@@ -1,12 +1,12 @@
 #🤝 Welcome There 🤝
+
 ## About Me
 
 <img align="right" src="https://avatars.githubusercontent.com/u/126300057?v=4"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Veiwer+Hope+You're+Doing+Good" alt="Typing SVG" /></a>
 
 My name is Michael or as go **m3rk1989** online. I'm a self taught Software Developer/Level Disgner from England with a deep interest in game modding, 3D Graphics, reverse engineering. I am constantly learning and am always open to new adventures.
 
-## Info
+## Information
 
 - 🌐 I'm currently using and creating stuff in radiant black, unreal engine, maya, visual Studio, Blender
 - 🔭 I’m currently working on: Content and Tools for Game Modding and Unreal Engine 5 Game ✨ _🤯Secret🤯 _ ✨ 
@@ -14,7 +14,7 @@ My name is Michael or as go **m3rk1989** online. I'm a self taught Software Deve
 - 💬 Ask me about: Anything you need help with.
 - 📫 How to reach me: On Discord or any of my Social Media accounts!
 - 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: .
+- ⚡ Fun fact: Life is what you make it.
 <br></br>
 
 <h3 align="left">Languages and Tools I Have Used:</h3>
