@@ -2,7 +2,7 @@
 ## About Me
 
 <img align="right" src="https://avatars.githubusercontent.com/u/126300057?v=4"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Veiwer+Hope+You're+Doing+Good" alt="Typing SVG" /></a>
 
 My name is Michael or as go **m3rk1989** online. I'm a self taught Software Developer/Level Disgner from England with a deep interest in game modding, 3D Graphics, reverse engineering. I am constantly learning and am always open to new adventures.
 
