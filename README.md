@@ -6,7 +6,7 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/126300057?v=4"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tillana&weight=600&size=30&duration=3500&pause=600&color=64F744&vCenter=true&width=435&lines=My+name+is+Michael+or+go+as;**m3rk1989**+online.+;I'm+a+self+taught+Software+;Developer%2FLevel+Disgner;from+England+with+a+deep;+interest+in+game+modding%2C;+3D+Graphics%2C+reverse;engineering.+I+am+;constantly+learning+and+am;always+open+to+new+adventures." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tillana&weight=600&size=30&duration=3500&pause=600&color=64F744&vCenter=true&width=435&lines=My+name+is+Michael+or+go+as;**m3rk1989**+online.+;I'm+a+self+taught+Software+;Developer%2FLevel+Disgner;from+England+with+a+deep;+interest+in+game+modding%2C;+3D+Graphics%2C+reverse;engineering.+I+am+;constantly+learning+and+am;always+open+to+new;adventures." alt="Typing SVG" /></a>
 
 ## Information
 
@@ -28,6 +28,7 @@
 <!-- ![GitHub metrics](https://metrics.lecoq.io/MichaelStreeter)  -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelstreeter&show_icons=true&locale=en" alt="michaelstreeter" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelstreeter" alt="michaelstreeter" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelstreeter&show_icons=true&locale=en&layout=compact" alt="michaelstreeter" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelstreeter&show_icons=true&locale=en&layout=compact" alt="michaelstreeter" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelstreeter&" alt="michaelstreeter" /></p> -->
 
