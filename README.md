@@ -37,6 +37,9 @@
 <img align="left" alt="MichaelStreeter | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" 
 <a href="https://twitter.com/m3rk1989">
 <img align="left" alt="MichaelStreeter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+
+<p align="left"> <a href="https://twitter.com/m3rk1989" target="blank"><img src="https://img.shields.io/twitter/follow/m3rk1989?logo=twitter&style=for-the-badge" alt="MichaelStreeter | Twitter" /></a> </p>
+
 <a href="https://www.youtube.com/channel/UCYlyT_VY1G2ZTmgsp-EgtpQ">
 <img align="left" alt="MichaelStreeter | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="https://discord.gg">
